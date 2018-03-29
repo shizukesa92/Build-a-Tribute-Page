@@ -1,0 +1,26 @@
+.row{
+  padding:10px;
+}
+.col-md-6{
+  background-color: #DCDCDC;
+  border-radius: 10px;
+}
+
+.image1{
+ background-color: white;  
+}
+
+.quote{
+  margin: 5px;
+}
+
+
+.image1{
+  padding: 5px;
+  margin: 10px;
+}
+
+footer{
+  text-align: center;
+  margin-top: 10px;
+}
